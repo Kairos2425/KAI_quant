@@ -1,0 +1,9 @@
+# Build artifacts
+build_dashboard.py
+build_data.py
+build_final.py
+fetch_data.py
+.workbuddy/
+__pycache__/
+*.pyc
+.codebuddy/
