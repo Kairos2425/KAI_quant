@@ -18,3 +18,4 @@ turtle_output/
 # Temp verification scripts
 test_runtime.js
 parity_turtle.js
+parity_portal.js
