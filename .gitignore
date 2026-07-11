@@ -13,6 +13,8 @@ __pycache__/
 
 # Generated backtest artifacts (dashboard embeds data inline, self-contained)
 backtest_output/
+turtle_output/
 
 # Temp verification scripts
 test_runtime.js
+parity_turtle.js
