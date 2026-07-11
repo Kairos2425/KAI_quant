@@ -7,3 +7,12 @@ fetch_data.py
 __pycache__/
 *.pyc
 .codebuddy/
+
+# Python virtual environment (managed per-project)
+.venv/
+
+# Generated backtest artifacts (dashboard embeds data inline, self-contained)
+backtest_output/
+
+# Temp verification scripts
+test_runtime.js
